@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **C++, DSA, Java, Javascript, HTML, CSS, React, etc**
+- 💬 Ask me about **C++, DSA, Java, Javascript, HTML, CSS, React, Data analytics, and Visualization.**
 
 - 📫 How to reach me **arpitn1603@gmail.com**
 
