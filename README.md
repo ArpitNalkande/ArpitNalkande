@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arpit</h1>
 <h3 align="center">A passionate web developer </h3>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ArpitNalkande&label=Profile%20Views&color=0&icon=5&pretty=false" />
+</a>
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **C++, DSA, Java, Javascript, HTML, CSS, React, Data analytics, and Visualization.**
