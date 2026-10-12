@@ -69,20 +69,6 @@ I'm a passionate developer focused on building **scalable backend systems, cloud
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArpitNalkande&show_icons=true&locale=en&theme=tokyonight" alt="Arpit's GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitNalkande&layout=compact&theme=tokyonight" alt="Arpit's Top Languages" />
-</p>
-
----
-
 ### 🚀 Current Focus
 
 - Building RESTful APIs with **ASP.NET Core Web API**
